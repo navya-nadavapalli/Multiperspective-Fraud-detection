@@ -1,0 +1,43 @@
+Service Provider
+
+Login,
+Browse and Train & Test Data Sets, 
+View Trained and Tested Accuracy in Bar Chart, 
+View Trained and Tested Accuracy Results, 
+View Prediction Of Fraud Status in Ecommerce Transaction, 
+View Fraud Detection Status Ratio in Ecommerce Transaction,
+Download Trained Data Sets, 
+View Ecommerce Transaction Fraud Status Ratio Results, 
+View All Remote Users.
+
+
+Remote User
+
+
+REGISTER AND LOGIN,
+PREDICT FRAUD DETECTION TYPE IN ECOMMERCE TRANSACTION,
+VIEW YOUR PROFILE. 
+
+
+Members
+
+Order_ID,	
+PDate,	
+Status,	
+Fulfilment,	
+Sales_Channel, 	
+ship_service_level,	
+Style,	
+SKU,	
+Category,	
+PSize,	
+ASIN,	
+Qty,	
+currency,	
+Amount,	
+payment_by,	
+ship_city,	
+ship_state,	
+ship_postal_code,	
+ship_country
+Prediction.
